@@ -1,0 +1,10 @@
+{
+  "name": "botTelegram",
+  "version": "0.1.0",
+  "dependencies": {
+    "mongodb": "^3.3.5",
+    "node-telegram-bot-api": "^0.40.0",
+    "nodemon": "^1.19.4",
+    "socks5-https-client": "^1.2.1"
+  }
+}
