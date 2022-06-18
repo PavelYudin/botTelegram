@@ -8,6 +8,7 @@
 GET https://dev.waadsu.com/api/v2/walkers 
 
 include::insert x-access-token.adoc[]
+** xref:x-access-token.adoc[token]
 
 * *Ответ*:  
 
