@@ -7,7 +7,7 @@
 
 GET https://dev.waadsu.com/api/v2/walkers 
 
-include::x-access-token.adoc[]
+include:: x-access-token.adoc[]
 
 * *Ответ*:  
 
